@@ -1,0 +1,47 @@
+grid.linestyle: -
+
+grid.linewidth: 2
+axes.axisbelow: True
+axes.spines.top: False
+axes.spines.right: False
+
+xtick.direction: in
+ytick.direction: in
+font.sans-serif: Fira Sans
+font.size: 10
+axes.titlesize: 11
+axes.titleweight: bold
+axes.titlelocation: center
+
+legend.fontsize: medium
+legend.frameon: False
+legend.numpoints: 3
+
+# colors
+
+#axes.facecolor: ffffff
+#axes.edgecolor: 444444
+#axes.labelcolor: 444444
+
+#grid.alpha: .8
+#grid.color: white
+
+#text.color: 444444
+#xtick.color: 444444
+#ytick.color: 444444
+
+figure.facecolor: white
+text.color: .15
+
+axes.labelcolor: .15
+
+xtick.color: .15
+ytick.color: .15
+
+axes.facecolor: white
+axes.edgecolor: .15
+
+grid.color: white
+
+axes.prop_cycle: cycler('color', ['5A5B9F', 'D94F70', '009473', 'F0C05A', '7BC4C4', 'FF6F61'])
+image.cmap: RdPu
