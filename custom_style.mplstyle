@@ -7,7 +7,7 @@ axes.spines.right: False
 
 xtick.direction: in
 ytick.direction: in
-font.sans-serif: Fira Sans
+# font.sans-serif: Fira Sans
 font.size: 10
 axes.titlesize: 11
 axes.titleweight: bold
